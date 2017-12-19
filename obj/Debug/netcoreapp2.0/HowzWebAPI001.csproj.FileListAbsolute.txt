@@ -1,0 +1,11 @@
+/Users/Howz/Projects/HowzWebAPI001/HowzWebAPI001/bin/Debug/netcoreapp2.0/HowzWebAPI001.deps.json
+/Users/Howz/Projects/HowzWebAPI001/HowzWebAPI001/bin/Debug/netcoreapp2.0/HowzWebAPI001.runtimeconfig.json
+/Users/Howz/Projects/HowzWebAPI001/HowzWebAPI001/bin/Debug/netcoreapp2.0/HowzWebAPI001.runtimeconfig.dev.json
+/Users/Howz/Projects/HowzWebAPI001/HowzWebAPI001/bin/Debug/netcoreapp2.0/HowzWebAPI001.dll
+/Users/Howz/Projects/HowzWebAPI001/HowzWebAPI001/bin/Debug/netcoreapp2.0/HowzWebAPI001.pdb
+/Users/Howz/Projects/HowzWebAPI001/HowzWebAPI001/obj/Debug/netcoreapp2.0/HowzWebAPI001.csprojResolveAssemblyReference.cache
+/Users/Howz/Projects/HowzWebAPI001/HowzWebAPI001/obj/Debug/netcoreapp2.0/HowzWebAPI001.csproj.CoreCompileInputs.cache
+/Users/Howz/Projects/HowzWebAPI001/HowzWebAPI001/obj/Debug/netcoreapp2.0/HowzWebAPI001.AssemblyInfoInputs.cache
+/Users/Howz/Projects/HowzWebAPI001/HowzWebAPI001/obj/Debug/netcoreapp2.0/HowzWebAPI001.AssemblyInfo.cs
+/Users/Howz/Projects/HowzWebAPI001/HowzWebAPI001/obj/Debug/netcoreapp2.0/HowzWebAPI001.dll
+/Users/Howz/Projects/HowzWebAPI001/HowzWebAPI001/obj/Debug/netcoreapp2.0/HowzWebAPI001.pdb
